@@ -31,7 +31,10 @@
     box-shadow: 10px 10px 20px black ;
     height: auto;
     width: auto;
+}
 
+h2{
+    text-decoration: underline;
 }
 
 .mdiv1:hover{
@@ -72,4 +75,17 @@ button{
     border-radius: 20px;
     box-shadow: 10px 10px 20px #192624;
 }
+
+.fdiv1, .fdiv2{
+    height: auto;
+    width:auto;
+    background-color: #192624;
+    text-align: justify;
+    font-size: 1.2rem;
+    padding: 20px;
+    margin: 10px;
+    color: #8C7956;
+    border-radius: 20px;
+}
+
 
